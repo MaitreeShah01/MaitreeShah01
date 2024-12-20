@@ -26,13 +26,14 @@ I’m particularly drawn to data-driven problem solving and enjoy diving into al
 - Data Visualization: Creating interactive dashboards and reports with Tableau & Power BI
 
 **Seeking Opportunities In:**
--Software Engineering (Backend/Frontend/Full-Stack)
--Machine Learning Engineering
--Data Engineering & Data Science
--Web Development (React, Django, Full-Stack)
--Research & Innovation in AI/ML
+- Software Engineering (Backend/Frontend/Full-Stack)
+- Machine Learning Engineering
+- Data Engineering & Data Science
+- Web Development (React, Django, Full-Stack)
+- Research & Innovation in AI/ML
 
 **🤝 Let’s Connect!**
+
 I’m always looking to expand my network and collaborate with others who share a passion for technology. Whether you want to discuss innovative ideas, explore opportunities, or just exchange knowledge, feel free to reach out. I’m excited to be part of the tech community and contribute to meaningful projects.
 
 Email: shahmaitree10@gmail.com
