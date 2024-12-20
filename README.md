@@ -10,9 +10,9 @@ Hello! I'm Maitree Shah, a Master's student in Computer Science at DePaul Univer
 I’m particularly drawn to data-driven problem solving and enjoy diving into algorithms, system design, and AI/ML applications. As I continue to evolve as a developer, I’m excited to collaborate with others and contribute to innovative projects in both academia and industry.
 
 **Technical Skills & Abilities**
-**-Programming Languages: Python, Java, C, C++, SQL, R**
-**-Frameworks & Libraries: Django, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas**
-**-Database Systems: MySQL, PostgreSQL, SQLite**
+*-Programming Languages: Python, Java, C, C++, SQL, R*
+*-Frameworks & Libraries: Django, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas*
+**-Database Systems: MySQL, PostgreSQL, SQLite
 **-Tools & Platforms: Tableau, Power BI, Visual Studio Code, Git, MS Office (Excel, Access, Word, PowerPoint, Power Platforms)
 **-Web Development: HTML, CSS, React, Bootstrap (Frontend, Backend, Full-Stack)
 **-Operating Systems: MacOS, Linux, Windows
