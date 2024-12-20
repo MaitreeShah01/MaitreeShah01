@@ -1,5 +1,4 @@
-## Hi there 👋
-**Maitree Shah**
+## Hi there, I am Maitree Shah 👋
 
 🎓 Master's in Computer Science | _**DePaul University**_
 
