@@ -18,12 +18,12 @@ I’m particularly drawn to data-driven problem solving and enjoy diving into al
 - Operating Systems: MacOS, Linux, Windows
 
 **What I’m Passionate About**
--Machine Learning & AI: Leveraging algorithms and data to create intelligent systems
--Full-Stack Development: Building end-to-end solutions from frontend to backend
--Data Science: Extracting valuable insights from data using Python and R
--Web Development: Crafting responsive, user-friendly web applications
--System Design: Designing scalable and robust architectures for complex applications
--Data Visualization: Creating interactive dashboards and reports with Tableau & Power BI
+- Machine Learning & AI: Leveraging algorithms and data to create intelligent systems
+- Full-Stack Development: Building end-to-end solutions from frontend to backend
+- Data Science: Extracting valuable insights from data using Python and R
+- Web Development: Crafting responsive, user-friendly web applications
+- System Design: Designing scalable and robust architectures for complex applications
+- Data Visualization: Creating interactive dashboards and reports with Tableau & Power BI
 
 **Seeking Opportunities In:**
 -Software Engineering (Backend/Frontend/Full-Stack)
