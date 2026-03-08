@@ -2,7 +2,7 @@
 ----
 🎓 Master's in Computer Science | _**DePaul University 
 
-📊 GPA: 3.0/4.0 (Master's) | 3.89/4.0 (Bachelor's)
+📊 GPA: 3.6/4.0 (Master's) | 3.89/4.0 (Bachelor's)
 
 
 ---
