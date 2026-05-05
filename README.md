@@ -1,6 +1,6 @@
 ## Hi there, I am Maitree Shah 👋
 ----
-🎓 Master's in Computer Science | _**DePaul University 
+🎓 Master's in Computer Science | **DePaul University**
 
 📊 GPA: 3.5/4.0 (Master's) | 3.89/4.0 (Bachelor's)
 
