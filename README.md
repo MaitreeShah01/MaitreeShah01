@@ -30,6 +30,10 @@ I’m particularly drawn to data-driven problem solving and enjoy diving into al
 2. [Expense Tracker Application](https://github.com/MaitreeShah01/Expense-Tracker-App-):
 
    The Expense Tracker is a Python-based application designed to simplify expense management. It features secure user authentication, allowing users to track and categorize their         spending, analyze expenses through visual charts, and export data to CSV for record-keeping. The project employs SQLite for database management, bcrypt for secure passwords, and       libraries like pandas and matplotlib for analysis and visualization. This modular and scalable project highlights skills in Python, database design, and data visualization.
+
+3. [Mental Health Outcome Analysis]
+4. [Predictive Modeling of Type 2 Diabetes Risk Using SDOH Data]
+   
 ----
 **What I’m Passionate About**
 - Machine Learning & AI: Leveraging algorithms and data to create intelligent systems
