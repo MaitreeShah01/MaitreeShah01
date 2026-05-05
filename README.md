@@ -1,40 +1,56 @@
-## Hi there, I am Maitree Shah 👋
-----
-🎓 Master's in Computer Science | **DePaul University**
+## Hi there, I'm Maitree Shah 👋
 
+🎓 MS in Computer Science | **DePaul University** (2026)
 📊 GPA: 3.5/4.0 (Master's) | 3.89/4.0 (Bachelor's)
+🌐 Portfolio: [maitree-portfolio.vercel.app](https://maitree-portfolio.vercel.app)
+📍 Chicago, IL | Open to relocation
+
+---
+
+## 🚀 About Me
+
+I'm a data professional with 3+ years of experience across data analysis, business intelligence, and machine learning. My work sits at the intersection of analytics and engineering — I enjoy building end-to-end data solutions, from cleaning and modeling raw data to delivering dashboards and insights that drive real decisions.
+
+I recently completed my MS in Computer Science at DePaul University, where I built ML models for public health prediction and student dropout risk analysis. I'm actively seeking roles in **Data Analytics, Business Intelligence, Data Engineering, and Machine Learning**.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL (T-SQL, PostgreSQL, MySQL), R, Java, C++
+
+**Analytics & BI:** Tableau, Power BI, Excel (Advanced), MS Power Platform
+
+**ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Random Forest, Logistic Regression, PCA, K-Means, SVM
+
+**Data Engineering:** ETL Pipelines, PostgreSQL, MySQL, SQLite, Snowflake (exposure)
+
+**Cloud & Tools:** AWS (EC2, S3), Git, VS Code, Jupyter, Google Colab
 
 
 ---
-**🚀 About Me**
 
-Hello! I'm Maitree Shah, a Master's student in Computer Science at DePaul University. My passion lies in solving complex problems and leveraging technology to build impactful solutions. With a strong academic background and hands-on experience, I've honed my skills in software development, machine learning, and full-stack development.
+## 📈 Featured Projects
 
-I’m particularly drawn to data-driven problem solving and enjoy diving into algorithms, system design, and AI/ML applications. As I continue to evolve as a developer, I’m excited to collaborate with others and contribute to innovative projects in both academia and industry.
+### 1. [Predicting County-Level Diabetes Risk Using SDOH Data](https://github.com/MaitreeShah01/DSC510-diabetes-risk-prediction)
+Built a county-level diabetes risk classifier using Social Determinants of Health (SDOH) data across 2,879 U.S. counties. Compared Logistic Regression (AUC 0.791) and Random Forest (AUC 0.829) models, identifying Premature Death Rate, Children in Poverty, and % Rural as the top predictors. Proposed CDC HI-5 aligned interventions including Medicaid expansion and mobile health clinics.
+
+`Python` `Scikit-learn` `Pandas` `CDC Diabetes Atlas` `County Health Rankings` `Random Forest` `Logistic Regression`
 
 ---
-**Technical Skills & Abilities**
-- Programming Languages: Python, Java, C, C++, SQL, R
-- Frameworks & Libraries: Django, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas
-- Database Systems: MySQL, PostgreSQL, SQLite
-- Tools & Platforms: Tableau, Power BI, Visual Studio Code, Git, MS Office (Excel, Access, Word, PowerPoint, Power Platforms)
-- Web Development: HTML, CSS, React, Bootstrap (Frontend, Backend, Full-Stack)
-- Operating Systems: MacOS, Linux, Windows
------
-**📈 Projects That Showcase My Work**
 
-1. [Sales Performance Analysis:](https://github.com/MaitreeShah01/Salse-analysis)
+### 2. [Student Dropout Risk Prediction Using ML]
+Analyzed dropout risk across 1,000 U.S. schools using Python and Scikit-learn. Applied PCA for dimensionality reduction, K-Means for clustering, and compared Random Forest vs SVM classifiers. Identified key socioeconomic and academic features driving student attrition.
 
-   Created an interactive sales performance analysis tool using Python and Tableau. Programmatically generated synthetic sales data that incorporated actual trends. Created dashboards    to illustrate critical KPIs, including regional sales maps, combined bar and line charts for revenue trends, bubble charts for salesperson performance, and animated cumulative         sales trends over time. Dynamic filters and parameters were used to improve interactivity, allowing for actionable insights and data-driven decision-making.
+`Python` `Scikit-learn` `PCA` `K-Means` `Random Forest` `SVM` `Pandas`
 
-2. [Expense Tracker Application](https://github.com/MaitreeShah01/Expense-Tracker-App-):
+---
 
-   The Expense Tracker is a Python-based application designed to simplify expense management. It features secure user authentication, allowing users to track and categorize their         spending, analyze expenses through visual charts, and export data to CSV for record-keeping. The project employs SQLite for database management, bcrypt for secure passwords, and       libraries like pandas and matplotlib for analysis and visualization. This modular and scalable project highlights skills in Python, database design, and data visualization.
+### 3. [Sales Performance Analysis](https://github.com/MaitreeShah01/Salse-analysis)
+Built an interactive sales performance dashboard using Python and Tableau with synthetic data reflecting real trends. Visualized KPIs including regional sales maps, revenue trends, and salesperson performance using dynamic filters and parameters.
 
-3. [Understanding-the-Factors-Influencing-Mental-Health]
-     
-4. [Predictive Modeling of Type 2 Diabetes Risk Using SDOH Data]
-   
+`Python` `Tableau` `Pandas` `Matplotlib` `Data Visualization`
+
 ----
 **What I’m Passionate About**
 - Machine Learning & AI: Leveraging algorithms and data to create intelligent systems
@@ -44,34 +60,12 @@ I’m particularly drawn to data-driven problem solving and enjoy diving into al
 - System Design: Designing scalable and robust architectures for complex applications
 - Data Visualization: Creating interactive dashboards and reports with Tableau & Power BI
 ----
-**Seeking Opportunities In:**
-- Software Engineering (Backend/Frontend/Full-Stack)
-- Machine Learning Engineering
-- Data Engineering & Data Science
-- Web Development (React, Django, Full-Stack)
-- Research & Innovation in AI/ML
-----
-**🤝 Let’s Connect!**
 
-I’m always looking to expand my network and collaborate with others who share a passion for technology. Whether you want to discuss innovative ideas, explore opportunities, or just exchange knowledge, feel free to reach out. I’m excited to be part of the tech community and contribute to meaningful projects.
+## 🤝 Let's Connect!
 
-Email: shahmaitree10@gmail.com
+I'm always open to discussing data, analytics, and new opportunities.
 
-LinkdIn: https://www.linkedin.com/in/maitree-shah-0a0b2b341/
-
-
-
-<!--
-**MaitreeShah01/MaitreeShah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 shahmaitree10@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/maitree-shah-0a0b2b341/)
+🌐 [Portfolio](https://maitree-portfolio.vercel.app)
+🐙 [GitHub](https://github.com/MaitreeShah01)
