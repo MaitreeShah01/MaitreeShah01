@@ -2,7 +2,9 @@
 
 🎓 MS in Computer Science | **DePaul University** (2026)
 📊 GPA: 3.5/4.0 (Master's) | 3.89/4.0 (Bachelor's)
+
 🌐 Portfolio: [maitree-portfolio.vercel.app](https://maitree-portfolio.vercel.app)
+
 📍 Chicago, IL | Open to relocation
 
 ---
